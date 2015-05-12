@@ -1,2 +1,3 @@
 # hello-world
-First repo
+
+Sa vedem unde sunt diferentele
